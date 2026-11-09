@@ -2,12 +2,12 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Hi 👋, I'm Kushagra</h1>
 
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Addict alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
 
 I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
 
@@ -32,15 +31,15 @@ My goal is simple: write clean code, build reliable software, and grow into a so
  <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/midnightshady">
+  <a href="https://github.com/heyitskushagra">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+  <a href="https://www.linkedin.com/in/nitin-mishra-313782378/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kaifqureshi3672@gmail.com">
+  <a href="mailto:nitinsm091@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
@@ -78,7 +77,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitskushagra&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
 ### 
@@ -86,13 +85,13 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/heyitskushagra/heyitskushagra/output/pacman-contribution-graph-dark.svg">
 
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/heyitskushagra/heyitskushagra/output/pacman-contribution-graph.svg">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/heyitskushagra/heyitskushagra/output/pacman-contribution-graph-dark.svg">
 </p>
 
 <h2 align="center">⌘ Philosophy</h2>
@@ -102,4 +101,3 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 </p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
