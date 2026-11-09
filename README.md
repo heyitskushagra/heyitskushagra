@@ -1,76 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Nitin%20Mishra&fontSize=64&fontAlignY=38&desc=Aspiring%20Coder%20%E2%80%A2%20Designer%20%E2%80%A2%20Builder&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+<p align="center">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, Imma Shady</h1>
+
+<h3 align="center">Backend Developer</h3>
+
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+</p>
+
+<p align="center">
+Building reliable backend systems with clean architecture and scalable solutions.
+</p>
+
+
+##  <h2 align="center">🚀 About Me </h2>
+
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+
+**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+
+I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+
+Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+<br clear="right"/>
+
+ <h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/midnightshady">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kaifqureshi3672@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
 </div>
-## 👨‍💻 About Me
-```js
-const nitin = {
-  name: "Nitin Mishra",
-  role: "Aspiring Coder & Designer",
-  location: "India 🇮🇳",
-  education: "Class 11 (PCM + AI)",
-  codes: ["HTML", "CSS", "Python", "React", "TypeScript", ".NET"],
-  designs: ["Adobe Tools", "UI / Graphic Design"],
-  currentlyBuilding: "Full-stack projects that people actually use",
-  funFact: "I can code the UI and design it too 🎨",
-  lookingFor: "Internships & collaborations 🤝",
-};
 
-```
-## ⚡ Tech Arsenal
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,py,c,react,ts,dotnet&theme=dark" alt="languages"/>
+<h2 align="center">📈 Activity Graph</h2>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="tools"/>
+### 
+<h2 align="center">⌘ Commit Activity</h2>
 
-
-
-
-
-</div>
-## 🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-### 🌐 Guruji Shrawan Platform
-A full website for a spiritual teacher & author: articles, books, video series, sign-in/sign-up, donations, English + Hindi, SEO-ready.
-React / Next.js TypeScript CSS Vercel
-</td>
-<td width="50%" valign="top">
-### 🏫 School Management System
-Python CLI app with Student, Teacher & Attendance modules, CSV storage, class-wise attendance marking and low-attendance warnings.
-Python CSV File Handling CLI
-</td>
-</tr>
-</table>
-## 📚 Learning Journey
-```mermaid
-timeline
-    title My Coding Roadmap
-    Foundations : HTML & CSS : Python : C
-    Building    : React : TypeScript : Real website deployed on Vercel
-    Now         : .NET : Backend & databases
-    Next        : Full-stack apps : Open source contributions
-
-```
-## 📊 GitHub Stats
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=heyitskushagra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitskushagra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heyitskushagra&theme=radical&hide_border=true&background=0d1117" alt="streak"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitskushagra&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff" alt="activity graph" width="95%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=heyitskushagra&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="trophies"/>
-</div>
-## 🐍 Contribution Snake
-<div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitskushagra/heyitskushagra/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyitskushagra/heyitskushagra/output/github-snake.svg" />
-<img alt="snake animation" src="https://raw.githubusercontent.com/heyitskushagra/heyitskushagra/output/github-snake.svg" />
-</picture>
-</div>
-## 🤝 Let's Connect
-<div align="center">
-*⭐ If you like what you see, drop a star on my repos!*
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
